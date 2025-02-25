@@ -17,3 +17,8 @@ Data Science with Python 2023 Course
 <img width="500" alt="Screenshot 2568-02-25 at 21 21 46" src="https://github.com/user-attachments/assets/80e58635-c47b-4202-aa7e-db153b561988" />
 
 4
+
+
+<img width="500" alt="Screenshot 2568-02-25 at 21 21 58" src="https://github.com/user-attachments/assets/64eb0854-2bdc-4bc7-b9a4-54187212ceab" />
+
+5
