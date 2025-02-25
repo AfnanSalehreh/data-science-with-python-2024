@@ -5,4 +5,4 @@ Data Science with Python 2023 Course
 
 1
 
-<img width="1358" alt="Screenshot 2568-02-25 at 21 20 16" src="https://github.com/user-attachments/assets/facf2f8b-9e77-4d91-b841-953af174b99b" />
+<img width="500" alt="Screenshot 2568-02-25 at 21 20 16" src="https://github.com/user-attachments/assets/facf2f8b-9e77-4d91-b841-953af174b99b" />
